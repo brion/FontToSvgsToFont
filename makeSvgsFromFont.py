@@ -1,4 +1,4 @@
-#!/usr/local/bin/fontforge
+#!/usr/bin/env fontforge -script
 
 # Created by Monte Hurd on 11/06/14.
 # Copyright (c) 2014 Monte Hurd. Provided under MIT-style license; please copy and modify!
